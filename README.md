@@ -35,7 +35,6 @@ This project replicates a real-world analytics lifecycle from **data extraction 
   - Logistic Regression  
   - Random Forest  
   - XGBoost
-- Achieved **~88% accuracy** with the XGBoost model
 - Generated churn probability scores for integration into Power BI
 
 ### **4. Business Intelligence (Power BI)**
