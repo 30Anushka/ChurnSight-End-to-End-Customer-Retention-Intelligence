@@ -3,7 +3,6 @@
 **ChurnSight** is a complete end-to-end analytics and predictive modeling project designed to uncover the **drivers of customer churn** and support **data-driven retention strategies**.  
 It integrates **SQL for data engineering**, **Python for machine learning**, and **Power BI for business intelligence**, forming a unified ecosystem for actionable customer insights.
 
----
 
 ## 🚀 Project Overview
 
@@ -14,8 +13,6 @@ Customer churn directly impacts profitability and long-term customer value.
 - Build retention dashboards for proactive decision-making  
 
 This project replicates a real-world analytics lifecycle from **data extraction → predictive modeling → executive-level reporting**.
-
----
 
 ## 🧩 Project Workflow
 
@@ -44,17 +41,12 @@ This project replicates a real-world analytics lifecycle from **data extraction 
   - **Drill-Downs:** Customer segment and revenue impact analysis  
 - Provided actionable insights to support retention campaigns
 
----
-
-
 ## 💡 Key Insights
 
 - **Month-to-month contract** customers churn the most due to low switching barriers.  
 - **Fiber optic** users reported higher churn rates than DSL customers.  
 - Customers using **electronic check payments** show higher churn likelihood.  
 - Targeted retention offers for high-value customers can reduce churn by **15–20%**.
-
----
 
 ## ⚙️ Tech Stack
 
@@ -65,8 +57,6 @@ This project replicates a real-world analytics lifecycle from **data extraction 
 | **Machine Learning** | Scikit-learn, XGBoost, Python |
 | **Visualization** | Power BI |
 | **Environment** | Jupyter Notebook, Power BI Desktop |
-
----
 
 
 
